@@ -2,7 +2,6 @@
 import React from "react";
 import { useQuery } from "react-query";
 import baseURL from "../../pages/api/hello";
-import Image from "next/image";
 import "tailwindcss/tailwind.css";
 
 const flagIcon = (icon) => {
